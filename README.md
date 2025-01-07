@@ -22,7 +22,7 @@ Diamonds.lk is a **University Module Project** built using the **MERN Stack** (M
 
 ## 📸 Snaps Form this WebsSite 
 
-![Diamonds.lk Preview](https://via.placeholder.com/800x400?text=Diamonds.lk+Preview)
+![Diamonds.lk Preview](https://github.com/ShachiruRashmika2/Diamonds.LK-Showcase/blob/main/frontend/src/Components/Accsesories/Images/Screenshot%202025-01-02%20183927.png)
 
 
 ---
