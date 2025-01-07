@@ -19,3 +19,10 @@ Diamonds.lk is a **University Module Project** built using the **MERN Stack** (M
 - **MongoDB**: NoSQL database for storing product information.  
 
 ---
+
+## 📸 Snaps Form this WebsSite 
+
+![Diamonds.lk Preview](https://via.placeholder.com/800x400?text=Diamonds.lk+Preview)
+
+
+---
